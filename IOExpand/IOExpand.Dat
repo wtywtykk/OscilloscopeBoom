@@ -1,0 +1,17 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~IOExpand.PrjPCB|ReportField=ProjectFullPath~G:\WorkDir\EleProjects\OscilloscopeBoom\IOExpand\IOExpand.PrjPCB|ReportField=Title~Bill of Materials For Project [IOExpand.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~10:26:41 AM|ReportField=ReportDate~10/14/2018|ReportField=ReportDateTime~10/14/2018 10:26:41 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~46|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~10/14/2018|ReportField=CurrentTime~10:26:36 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~G:\WorkDir\EleProjects\OscilloscopeBoom\IOExpand\IOExpand.SchDoc|ReportField=DocumentName~IOExpand.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~10/2/2018|ReportField=Organization~|ReportField=ProjectName~IOExpand.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~IOExpand.PrjPCB|ReportField=DataSourceFullPath~G:\WorkDir\EleProjects\OscilloscopeBoom\IOExpand\IOExpand.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|MLCC|MLCC|C1|0805C|MLCC|1
+2|MLCC|MLCC|C2|1206C|MLCC|1
+3|MLCC|MLCC|C3, C4, C5, C6, C7, C8, C9, C10|0603C|MLCC|8
+4|JTAG_ALTERA|ALTERA JTAG port|JTAG|JTAG10|JTAG_ALTERA|1
+5|LEDR|RED LED|LED1|LED1206R|LEDR|1
+6|FPGA_PAR_MASTER|FPGA parallel port|M1|IDC30|FPGA_PAR_MASTER|1
+7|FPGA_SER_MASTER|FPGA serial port|M2|IDC10|FPGA_SER_MASTER|1
+8|Dual 20 pin port|Dual 20 pin port|P1|201S2X20|DPORT20|1
+9|Dual 14 pin port|Dual 14 pin port|P2|201S2X14|DPORT14|1
+10|WPORT2_PWR|2 pin power port|PWR2|VH3.96-POWER-2P|WPORT2_PWR|1
+11|Resistor|Resistor|R1, R2, R3, R4|0603R|Resistor|4
+12|Res Pack|Isolated Resistor Network|RP1, RP2, RP3, RP4, RP5, RP6, RP7, RP8, RP9, RP10, RP11, RP12, RP13, RP14, RP15, RP16, RP17, RP18, RP19, RP20, RP21|8P4R_0603|Res Pack|21
+13|EPM570T144C5N|MAX II 3.3/2.5V CPLD, 116 IOs, 570 Logic Elements, 144-Pin Plastic TQFP, Commercial Temperature, Speed Grade 5, Pb-Free|U1|TQFP144_N|EPM570T144C5N|1
+14|AMS1117|800mA LOW DROPOUT VOLTAGE REGULATOR|U2|DCY4|AMS1117|1
+15|MICRO-USB|MICRO USB Connector|USB1|USB-MICRO|MICRO-USB|1
+16|Oscillator|Oscillator|X1|XTAL-3225|Oscillator|1

@@ -1,0 +1,17 @@
+/CPLD/db
+/CPLD/incremental_db
+/CPLD/output_files
+/CPLD/simulation
+/FPGA/*.bak
+/FPGA/greybox_tmp
+/FPGA/incremental_db
+/FPGA/output_files
+/FPGA/simulation
+/FPGA/.qsys_edit
+/FPGA/db
+/HDMI/hdmi2rgbv2四层板版本
+/HDMI/hdmi2rgbv2四层板版本.zip
+/IOExpand/__Previews
+/IOExpand/History
+/IOExpand/Project Logs for IOExpand
+/IOExpand/Project Outputs for IOExpand

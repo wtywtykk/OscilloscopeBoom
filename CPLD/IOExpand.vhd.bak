@@ -1,0 +1,19 @@
+Library IEEE;
+Use IEEE.STD_LOGIC_1164.All;
+Use IEEE.NUMERIC_STD.All;
+
+Entity IOExpand Is
+	Port(
+		Clk:In STD_LOGIC;
+		Reset:In STD_LOGIC;
+		PixelWr:Out STD_LOGIC;
+		PixelAddr:Out STD_LOGIC_VECTOR(9 DownTo 0);
+		PixelData:In STD_LOGIC_VECTOR(7 DownTo 0)
+	);
+End Entity AcquisitionCore;
+
+Architecture Behavioral Of AcquisitionCore Is
+Begin
+	
+	
+End Behavioral;
